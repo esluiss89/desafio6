@@ -1,4 +1,17 @@
-.bgimage {
-    width: 100%;
-    background-color: black;
+body{
+    font-family: 'Kaushan Script', cursive;
+    color: white;
+    background-color: rgb(36, 20, 20);
+}
+
+.bg-image {
+    max-width: 100%;
+}
+
+.card {
+    background-color: rgb(36, 20, 20);
+}
+
+.card-footer {
+    background-color: rgb(8, 8, 8);
 }
